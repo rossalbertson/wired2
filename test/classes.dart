@@ -1,4 +1,4 @@
-import 'package:wired/wired.dart';
+import 'package:wired2/wired2.dart';
 
 @Component()
 class DoSomeComp {
